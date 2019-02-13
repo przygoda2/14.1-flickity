@@ -1,9 +1,1 @@
-{
-	"version": 3,
-	"file": "style.css",
-	"sources": [
-		"../sass/style.scss"
-	],
-	"names": [],
-	"mappings": ""
-}
+{"version":3,"sources":["../sass/style.scss","style.css"],"names":[],"mappings":"AAAA;EACI,uBAAsB;CACvB;;AAED;EACE,wBAAuB;EAAC,eAAc;CACvC;;AAED;EACE,kBAAiB;EACjB,eAAc;EACd,aAAY;EACZ,qBAAa;EAAb,cAAa;EACb,uBAAmB;MAAnB,oBAAmB;EACnB,sBAAuB;MAAvB,wBAAuB;CAOxB;;AAbD;EAQI,aAAyB;EACzB,kBAAiB;EACjB,UAAS;EACT,+BAA8B;CAC/B;;AAGH;EACE,oBAAmB;CACpB;;AAED;EACE,YAAW;EACX,aAAY;EACZ,kBAAiB;EACjB,mBAAkB;EAClB,iCAAgC;CACjC;;AAED;EACE,iBAAgB;EAChB,aAAY;EACZ,YAAW;EACX,2CAA0C;EAC1C,mBAAkB;EAClB,UAAS;EACT,YAAW;EACX,mBAAkB;EAClB,uBAAsB;EACtB,gBAAe;EACf,WAAS;CACV;;AAED;EACE,YAAW;EACX,SAAQ;EACR,iBAAgB;CACjB;;AAED;EACE;IACI,eAAc;GACf;CCGN;;ADDC;EACE;IACI,eAAc;GACf;CCIN","file":"style.css"}
